@@ -9,7 +9,7 @@ environment:
 
 dependencies:
   tool_base:
-    git: https://github.com/ventskus-roman/tool_base
+    git: https://github.com/adrienbaron/tool_base
   #  tool_base:
   #    path: ../tool_base
   reporting:
